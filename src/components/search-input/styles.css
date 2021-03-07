@@ -1,0 +1,22 @@
+.search-input {
+  padding: 16px 0;
+  display: flex;
+  align-items: center;
+}
+
+.search-input input {
+  color: #000;
+  background: #ffebf7;
+  padding: 8px 45px 8px 8px;
+  line-height: 1.4rem;
+  outline: 0;
+  margin: 0;
+  border: 1px solid #eb008c;
+  border-radius: 25px;
+  margin-left: auto;
+  width: 50%;
+}
+
+.search-input label {
+  margin-right: 16px;
+}
